@@ -1,0 +1,7 @@
+Applicable Links:
+
+https://geocoder.readthedocs.io/providers/ArcGIS.html
+https://openweathermap.org/api/hourly-forecast
+https://pandas.pydata.org/docs/
+https://requests.readthedocs.io/en/latest
+https://matplotlib.org/stable/api/index
